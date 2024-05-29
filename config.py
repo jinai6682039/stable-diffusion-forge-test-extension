@@ -1,2 +1,0 @@
-# config.py
-ENHANCEMENT_FACTOR = 1.5
